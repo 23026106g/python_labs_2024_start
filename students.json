@@ -17,6 +17,15 @@
                 "math": 75,
                 "science": 80
             }
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "age": 21,
+            "grades": {
+                "math": 95,
+                "science": 90
+            }
         }
     ]
 }
